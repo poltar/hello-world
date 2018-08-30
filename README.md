@@ -1,2 +1,3 @@
 # hello-world
-Hello world for CS222
+
+Stuff, stuff, and more stuff
